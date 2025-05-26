@@ -1,0 +1,1 @@
+# Regresi-n-Semillas-de-trigo-Reducci-n-de-dimensionalidad-
